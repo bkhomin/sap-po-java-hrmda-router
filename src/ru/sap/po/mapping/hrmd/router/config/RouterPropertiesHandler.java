@@ -1,4 +1,4 @@
-package ru.sap.po.mapping.config;
+package ru.sap.po.mapping.hrmd.router.config;
 
 import java.util.Arrays;
 import java.util.List;
